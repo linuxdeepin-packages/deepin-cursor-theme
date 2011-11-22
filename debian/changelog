@@ -1,0 +1,41 @@
+deepin-cursor-theme (1.0.4.1-1) oneiric; urgency=low
+
+  *  change compat(5-->8),control(5-->8),rules;
+
+ -- Chen Bo <666Yuhoo@gmail.com>  Tue, 22 Nov 2011 16:02:01 +0800
+
+deepin-cursor-theme (1.0.4.1) oneiric; urgency=low
+
+  * build for oneiric.
+
+ -- YunQiang Su <wzssyqa@gmail.com>  Tue, 23 Aug 2011 13:11:14 +0800
+
+deepin-cursor-theme (1.0.4) natty; urgency=low
+
+  * build on amd64
+
+ -- Leng Ganghua <hiweed@gmail.com>  Sat, 04 Jun 2011 09:02:19 +0800
+
+deepin-cursor-theme (1.0.3) maverick; urgency=low
+
+  * Removed Shere_Khan_X and made PolarCursorTheme-Green as default
+
+ -- Leng Ganghua <hiweed@gmail.com>  Tue, 26 Oct 2010 08:57:33 +0800
+
+deepin-cursor-theme (1.0.2) maverick; urgency=low
+
+  * Added PolarCursorTheme-Green cursor theme
+
+ -- Leng Ganghua <hiweed@gmail.com>  Mon, 25 Oct 2010 20:38:11 +0800
+
+deepin-cursor-theme (1.0.1-1) maverick; urgency=low
+
+  * Typo fixed.
+
+ -- Leng Ganghua <hiweed@gmail.com>  Sun, 24 Oct 2010 08:56:32 +0800
+
+deepin-cursor-theme (1.0.0) maverick; urgency=low
+
+  * Initial release.
+
+ -- Leng Ganghua <hiweed@gmail.com>  Sun, 24 Oct 2010 06:25:51 +0800

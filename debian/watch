@@ -1,0 +1,3 @@
+version=3
+http://code.google.com/p/gwrite/downloads/list \
+  http://gwrite.googlecode.com/files/gwrite-(.*).tar.gz

@@ -1,0 +1,16 @@
+Source: deepin-cursor-theme
+Section: gnome
+Priority: optional
+Maintainer: Leng Ganghua <hiweed@gmail.com>
+Uploaders: YunQiang Su <wzssyqa@gmail.com>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
+
+Package: deepin-cursor-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: MacOS X like cursor-theme for Linux Deepin
+ This package contains Share_Khan_X cursor theme.It is easy
+ to use.
+ .
+ It aims to make the cursor theme more beautiful and useful.
